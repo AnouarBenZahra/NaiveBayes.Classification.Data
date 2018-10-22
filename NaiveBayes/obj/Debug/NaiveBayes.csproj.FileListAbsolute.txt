@@ -1,0 +1,5 @@
+c:\users\anouar ben zahra\documents\visual studio 2015\Projects\NaiveBayes\NaiveBayes\bin\Debug\NaiveBayes.dll
+c:\users\anouar ben zahra\documents\visual studio 2015\Projects\NaiveBayes\NaiveBayes\bin\Debug\NaiveBayes.pdb
+c:\users\anouar ben zahra\documents\visual studio 2015\Projects\NaiveBayes\NaiveBayes\obj\Debug\NaiveBayes.csprojResolveAssemblyReference.cache
+c:\users\anouar ben zahra\documents\visual studio 2015\Projects\NaiveBayes\NaiveBayes\obj\Debug\NaiveBayes.dll
+c:\users\anouar ben zahra\documents\visual studio 2015\Projects\NaiveBayes\NaiveBayes\obj\Debug\NaiveBayes.pdb
