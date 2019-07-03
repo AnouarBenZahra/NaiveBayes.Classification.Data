@@ -26,8 +26,7 @@ namespace NaiveBayes
         {
             if (WordCount.Keys.Contains(word))
                 return WordCount[word];
-            return 0;
-            
+            return 0;            
         }
     }
 }
