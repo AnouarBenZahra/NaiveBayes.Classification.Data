@@ -24,8 +24,10 @@ namespace NaiveBayes
         public int NumberOfClasses { get; set; }
         public int NumberOfOccurencesInTrainClasses(String word)
         {
-            if (WordCount.Keys.Contains(word)) return WordCount[word];
+            if (WordCount.Keys.Contains(word))
+                return WordCount[word];
             return 0;
+            
         }
     }
 }
