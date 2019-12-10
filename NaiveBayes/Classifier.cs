@@ -22,7 +22,7 @@ namespace NaiveBayes
         {
             var charr = ch.ExtractInfos();
             var resClass = _classes
-                .Select(x => new
+                .Select( x => new
                 {
                     Result = Math.Pow(Math.E, Calc(x.NumberOfClasses, _countOfDocs, charr, x.WordsNumber, x, _uniqWordsNumber)),
                     ClassName = x.Name
